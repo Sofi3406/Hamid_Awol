@@ -26,7 +26,7 @@ export default function About() {
               <div>
                 <p><span className="dot"><b>Work:</b></span> Full-Stack Developer</p>
                 <p><span className="dot"><b>Freelance:</b></span> Available</p>
-                <p><span className="dot"><b>Phone:</b></span> 0921426433</p>
+                <p><span className="dot"><b>Phone:</b></span> +251921426433</p>
                 <p><span className="dot"><b>Country:</b></span> Ethiopia</p>
               </div>
             </div>
