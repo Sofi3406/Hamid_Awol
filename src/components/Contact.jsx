@@ -28,7 +28,7 @@ export default function Contact() {
         <div className="contact-con">
           {[
             { icon: 'fa-solid fa-envelope', title: 'Email', info: 'hamidawol39@gmail.com', aos: 'fade-up' },
-            { icon: 'fa-solid fa-phone-flip', title: 'My Phone', info: '+251912426433', aos: 'fade-down' },
+            { icon: 'fa-solid fa-phone-flip', title: 'My Phone', info: '+251921426433', aos: 'fade-down' },
             { icon: 'fa-solid fa-location-dot', title: 'My Address', info: 'Central Ethiopia, Mareko Special Woreda', aos: 'fade-up' },
           ].map((c, i) => (
             <div className="card1" key={i} data-aos={c.aos} data-aos-duration="2000">
