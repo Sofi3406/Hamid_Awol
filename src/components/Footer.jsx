@@ -7,7 +7,7 @@ export default function Footer() {
           <div className="foot-desc">
             <h3 className="foot-brand">Hamid<span className="foot-dot">.</span></h3>
             <p>Passionate Full-Stack Developer crafting modern, responsive, and user-friendly web experiences with clean code and creative design.</p>
-            <a href="mailto:hamid@example.com" className="foot-email"><i className="fa-solid fa-envelope"></i> hamid@example.com</a>
+            <a href="mailto:hamidawol39@gmail.com" className="foot-email"><i className="fa-solid fa-envelope"></i> hamidawol39@gmail.com</a>
           </div>
 
           <div className="quick">

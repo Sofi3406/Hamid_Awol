@@ -18,7 +18,7 @@ export default function About() {
             </div>
             <div className="about-info" data-aos="fade-left" data-aos-duration="2000">
               <div>
-                <p><span className="dot"><b>Age:</b></span> 25</p>
+                <p><span className="dot"><b>Age:</b></span> 26</p>
                 <p><span className="dot"><b>Gender:</b></span> Male</p>
                 <p><span className="dot"><b>Language:</b></span> English, Amharic</p>
                 <p><span className="dot"><b>Email:</b></span> hamidawol39@gmail.com</p>
